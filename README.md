@@ -81,10 +81,27 @@
         <img src='assets/images/duLogo.png' />
         <strong>University of Denver</strong>
     </h3>
-    <ul style='list-style-type: none;'>
-        <li>🌱 Full-Stack Developer Certification</li>
-        <li>🌱 Masters of Accountancy (MAcc)</li>
-        <li>🌱 Masters of Business Administration (MBA)</li>
+    <ul>
+        <li>💻 Full-Stack Developer Certification</li>
+        <li>📚 Masters of Accountancy (MAcc)</li>
+        <ul>
+            <li>🏆 2021</li>
+        </ul>
+        <li>📚 Masters of Business Administration (MBA)</li>
+        <ul>
+            <li>🏆 2017</li>
+        </ul>
+    </ul>
+    <h3>
+        <img src='assets/images/osuLogo.png' />
+        <strong>Ohio State University</strong>
+    </h3>
+    <ul>
+        <li>📚 Bachelors of Science in Business Administration</li>
+        <ul>
+            <li>📈 Economics major</li>
+            <li>🏆 2014</li>
+        </ul>
     </ul>
 </div>
 
