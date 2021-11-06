@@ -39,7 +39,7 @@
     </ul>
     <h3>
         <img src='assets/images/pwcLogo.png' />&nbsp;
-        <strong>PricewaterhouseCoopers, LLP</strong>
+        <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
         <li>👨‍💻 Manager, Oracle Financials Cloud</li>
@@ -48,7 +48,7 @@
     </ul>
     <h3>
         <img src='assets/images/pwcLogo.png' />&nbsp;
-        <strong>PricewaterhouseCoopers, LLP</strong>
+        <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
         <li>👨‍💻 Senior Associate, Oracle Financials Cloud</li>
@@ -57,7 +57,7 @@
     </ul>
     <h3>
         <img src='assets/images/amLightLogo.png' height=48px width=48px />&nbsp;
-        <strong>American Lighting, Inc.</strong>
+        <strong>American Lighting</strong>
     </h3>
     <ul>
         <li>👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project</li>
@@ -66,7 +66,7 @@
     </ul>
     <h3>
         <img src='assets/images/pacificLogo.png' />&nbsp;
-        <strong>Pacific Facility Maintenance, Inc.</strong>
+        <strong>Pacific Facility Maintenance</strong>
     </h3>
     <ul>
         <li>👨‍💻 Financial Systems Manager</li>
@@ -80,7 +80,7 @@
 </details>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[pwc-logo]: assets/images/pwcLogo.png?theme=dark
+
 <!--
 **hnava47/hnava47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
