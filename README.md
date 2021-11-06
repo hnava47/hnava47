@@ -28,31 +28,46 @@
 
 ## Experience
 <div>
-    <p><img src='assets/images/metaLogo.png' width=8% height=8% /></p>
+    <h3>
+        <img src='assets/images/metaLogo.png' />&nbsp;
+        <strong>Meta</strong>
+    </h3>
     <ul>
         <li>👨‍💻 Application Manager, Accounting</li>
         <li>📆 Aug-2021 - Present</li>
         <li>📍 Denver, CO</li>
-    </ul>&nbsp;
-    <p><img src='assets/images/pwcLogo.png' width=5% height=5% /></p>
+    </ul>
+    <h3>
+        <img src='assets/images/pwcLogo.svg' height=48px width=48px />&nbsp;
+        <strong>PricewaterhouseCoopers</strong>
+    </h3>
     <ul>
         <li>👨‍💻 Manager, Oracle Financials Cloud</li>
         <li>📆 Jan-2020 - Aug-2021</li>
         <li>📍 Denver, CO</li>
-    </ul>&nbsp;
-    <p><img src='assets/images/pwcLogo.png' width=5% height=5% /></p>
+    </ul>
+    <h3>
+        <img src='assets/images/pwcLogo.svg' height=48px width=48px />&nbsp;
+        <strong>PricewaterhouseCoopers</strong>
+    </h3>
     <ul>
         <li>👨‍💻 Senior Associate, Oracle Financials Cloud</li>
         <li>📆 Jan-2018 - Jan-2020</li>
         <li>📍 Denver, CO</li>
-    </ul>&nbsp;
-    <p><img src='assets/images/amLightLogo.png' width=8% height=8% /></p>
+    </ul>
+    <h3>
+        <img src='assets/images/amLightLogo.png' height=48px width=48px />&nbsp;
+        <strong>American Lighting, Inc.</strong>
+    </h3>
     <ul>
         <li>👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project</li>
         <li>📆 Aug-2017 - Jan-2018</li>
         <li>📍 Denver, CO</li>
-    </ul>&nbsp;
-    <p><img src='assets/images/proTechLogo.png' width=8% height=8% /></p>
+    </ul>
+    <h3>
+        <img src='assets/images/pacificLogo.png' />&nbsp;
+        <strong>Pacific Facility Maintenance</strong>
+    </h3>
     <ul>
         <li>👨‍💻 Financial Systems Manager</li>
         <li>📆 Jan-2015 - Aug-2017</li>
@@ -65,7 +80,7 @@
 </details>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[pwc-logo]: assets/images/pwcLogo.png
+[pwc-logo]: assets/images/pwcLogo.png?theme=dark
 <!--
 **hnava47/hnava47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
