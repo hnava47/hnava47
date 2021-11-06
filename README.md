@@ -76,6 +76,18 @@
 </div>
 
 ## Education
+<div>
+    <h3>
+        <img src='assets/images/duLogo.png' />
+        <strong>University of Denver</strong>
+    </h3>
+    <ul style='list-style-type: none;'>
+        <li>🌱 Full-Stack Developer Certification</li>
+        <li>🌱 Masters of Accountancy (MAcc)</li>
+        <li>🌱 Masters of Business Administration (MBA)</li>
+    </ul>
+</div>
+
 
 </details>
 
