@@ -6,7 +6,7 @@
     <a href='https://linkedin.com/in/hector-nava-mba'>
         <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
     </a>&nbsp;&nbsp;
-    <a href='hector.r.nava44@gmail.com'>
+    <a href='mailto:hector.r.nava44@gmail.com?subject=GitHub - Hector Nava Inquiry'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
     </a>&nbsp;&nbsp;
     <a href='https://www.facebook.com/tito.nava'>
@@ -23,6 +23,10 @@
     </a>
 </p>
 
+<p align='center'>
+    📫 How to reach me: <a href='mailto:hector.r.nava44@gmail.com?subject=GitHub - Hector Nava Inquiry'>hector.r.nava44@gmail.com</a>
+</p>
+
 <details>
   <summary>📃 Resume</summary>
 
@@ -33,45 +37,45 @@
         <strong>Meta</strong>
     </h3>
     <ul>
-        <li>👨‍💻 Application Manager, Accounting</li>
-        <li>📆 Aug-2021 - Present</li>
-        <li>📍 Denver, CO</li>
-    </ul>
+        👨‍💻 Application Manager, Accounting<br />
+        📆 Aug-2021 - Present<br />
+        📍 Denver, CO
+    </ul>&nbsp;
     <h3>
         <img src='assets/images/pwcLogo.png' />&nbsp;
         <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
-        <li>👨‍💻 Manager, Oracle Financials Cloud</li>
-        <li>📆 Jan-2020 - Aug-2021</li>
-        <li>📍 Denver, CO</li>
-    </ul>
+        👨‍💻 Manager, Oracle Financials Cloud<br />
+        📆 Jan-2020 - Aug-2021<br />
+        📍 Denver, CO
+    </ul>&nbsp;
     <h3>
         <img src='assets/images/pwcLogo.png' />&nbsp;
         <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
-        <li>👨‍💻 Senior Associate, Oracle Financials Cloud</li>
-        <li>📆 Jan-2018 - Jan-2020</li>
-        <li>📍 Denver, CO</li>
-    </ul>
+        👨‍💻 Senior Associate, Oracle Financials Cloud<br />
+        📆 Jan-2018 - Jan-2020<br />
+        📍 Denver, CO
+    </ul>&nbsp;
     <h3>
         <img src='assets/images/amLightLogo.png' height=48px width=48px />&nbsp;
         <strong>American Lighting</strong>
     </h3>
     <ul>
-        <li>👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project</li>
-        <li>📆 Aug-2017 - Jan-2018</li>
-        <li>📍 Denver, CO</li>
-    </ul>
+        👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project<br />
+        📆 Aug-2017 - Jan-2018<br />
+        📍 Denver, CO
+    </ul>&nbsp;
     <h3>
         <img src='assets/images/pacificLogo.png' />&nbsp;
         <strong>Pacific Facility Maintenance</strong>
     </h3>
     <ul>
-        <li>👨‍💻 Financial Systems Manager</li>
-        <li>📆 Jan-2015 - Aug-2017</li>
-        <li>📍 Denver, CO</li>
+        👨‍💻 Financial Systems Manager<br />
+        📆 Jan-2015 - Aug-2017<br />
+        📍 Denver, CO
     </ul>
 </div>
 
@@ -82,22 +86,22 @@
         <strong>University of Denver</strong>
     </h3>
     <ul>
-        <li>💻 Full-Stack Developer Certification</li>
-        <li>📚 Masters of Accountancy (MAcc)</li>
+        💻 Full-Stack Developer Certification<br />
+        📚 Masters of Accountancy (MAcc)
         <ul>
             <li>🏆 2021</li>
         </ul>
-        <li>📚 Masters of Business Administration (MBA)</li>
+        📚 Masters of Business Administration (MBA)
         <ul>
             <li>🏆 2017</li>
         </ul>
-    </ul>
+    </ul>&nbsp;
     <h3>
         <img src='assets/images/osuLogo.png' />
         <strong>Ohio State University</strong>
     </h3>
     <ul>
-        <li>📚 Bachelors of Science in Business Administration</li>
+        📚 Bachelors of Science in Business Administration
         <ul>
             <li>📈 Economics major</li>
             <li>🏆 2014</li>
