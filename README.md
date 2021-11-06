@@ -38,7 +38,7 @@
         <li>📍 Denver, CO</li>
     </ul>
     <h3>
-        <img src='assets/images/pwcLogo.svg' height=48px width=48px />&nbsp;
+        <img src='assets/images/pwcLogo.png' />&nbsp;
         <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
@@ -47,7 +47,7 @@
         <li>📍 Denver, CO</li>
     </ul>
     <h3>
-        <img src='assets/images/pwcLogo.svg' height=48px width=48px />&nbsp;
+        <img src='assets/images/pwcLogo.png' />&nbsp;
         <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
@@ -57,7 +57,7 @@
     </ul>
     <h3>
         <img src='assets/images/amLightLogo.png' height=48px width=48px />&nbsp;
-        <strong>American Lighting, Inc.</strong>
+        <strong>American Lighting</strong>
     </h3>
     <ul>
         <li>👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project</li>
