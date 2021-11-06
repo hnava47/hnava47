@@ -28,19 +28,19 @@
 
 ## Experience
 <div>
-    <p><img src='assets/images/metaLogo.png' style='background-color:black;' width=8% height=8% /></p>
+    <p><img src='assets/images/metaLogo.png' width=8% height=8% /></p>
     <ul>
         <li>👨‍💻 Application Manager, Accounting</li>
         <li>📆 Aug-2021 - Present</li>
         <li>📍 Denver, CO</li>
     </ul>&nbsp;
-    <p><img src='assets/images/pwcLogo.png' style='background-color:black;' width=5% height=5% /></p>
+    <p><img src='assets/images/pwcLogo.png' width=5% height=5% /></p>
     <ul>
         <li>👨‍💻 Manager, Oracle Financials Cloud</li>
         <li>📆 Jan-2020 - Aug-2021</li>
         <li>📍 Denver, CO</li>
     </ul>&nbsp;
-    <p><img src='assets/images/pwcLogo.png' style='background-color:black;' width=5% height=5% /></p>
+    <p><img src='assets/images/pwcLogo.png' width=5% height=5% /></p>
     <ul>
         <li>👨‍💻 Senior Associate, Oracle Financials Cloud</li>
         <li>📆 Jan-2018 - Jan-2020</li>
