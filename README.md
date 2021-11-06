@@ -22,6 +22,50 @@
         <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hnava47&show_icons=true&count_private=true&theme=dark' width='350' />
     </a>
 </p>
+
+<details>
+  <summary>📃 Resume</summary>
+
+## Experience
+<div>
+    <p><img src='assets/images/metaLogo.png' width=8% height=8% /></p>
+    <ul>
+        <li>👨‍💻 Application Manager, Accounting</li>
+        <li>📆 Aug-2021 - Present</li>
+        <li>📍 Denver, CO</li>
+    </ul>&nbsp;
+    <p><img src='assets/images/pwcLogo.png' width=5% height=5% /></p>
+    <ul>
+        <li>👨‍💻 Manager, Oracle Financials Cloud</li>
+        <li>📆 Jan-2020 - Aug-2021</li>
+        <li>📍 Denver, CO</li>
+    </ul>&nbsp;
+    <p><img src='assets/images/pwcLogo.png' width=5% height=5% /></p>
+    <ul>
+        <li>👨‍💻 Senior Associate, Oracle Financials Cloud</li>
+        <li>📆 Jan-2018 - Jan-2020</li>
+        <li>📍 Denver, CO</li>
+    </ul>&nbsp;
+    <p><img src='assets/images/amLightLogo.png' width=8% height=8% /></p>
+    <ul>
+        <li>👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project</li>
+        <li>📆 Aug-2017 - Jan-2018</li>
+        <li>📍 Denver, CO</li>
+    </ul>&nbsp;
+    <p><img src='assets/images/proTechLogo.png' width=8% height=8% /></p>
+    <ul>
+        <li>👨‍💻 Financial Systems Manager</li>
+        <li>📆 Jan-2015 - Aug-2017</li>
+        <li>📍 Denver, CO</li>
+    </ul>
+</div>
+
+## Education
+
+</details>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[pwc-logo]: assets/images/pwcLogo.png
 <!--
 **hnava47/hnava47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
