@@ -48,7 +48,7 @@
         <strong>Meta</strong>
     </h3>
     <ul>
-        👨‍💻 Application Manager, Accounting<br />
+        👨‍💻 Application Manager, Enterprise Products<br />
         📆 Aug-2021 - Present<br />
         📍 Denver, CO
     </ul>&nbsp;
@@ -57,7 +57,7 @@
         <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
-        👨‍💻 Manager, Oracle Financials Cloud<br />
+        👨‍💻 Manager<br />
         📆 Jan-2020 - Aug-2021<br />
         📍 Denver, CO
     </ul>&nbsp;
@@ -66,7 +66,7 @@
         <strong>PricewaterhouseCoopers</strong>
     </h3>
     <ul>
-        👨‍💻 Senior Associate, Oracle Financials Cloud<br />
+        👨‍💻 Senior Associate<br />
         📆 Jan-2018 - Jan-2020<br />
         📍 Denver, CO
     </ul>&nbsp;
@@ -75,7 +75,7 @@
         <strong>American Lighting</strong>
     </h3>
     <ul>
-        👨‍💻 Functional Lead, Oracle Cloud ERP/SCM Project<br />
+        👨‍💻 Functional Lead<br />
         📆 Aug-2017 - Jan-2018<br />
         📍 Denver, CO
     </ul>&nbsp;
