@@ -75,7 +75,7 @@
         <strong>American Lighting</strong>
     </h3>
     <ul>
-        👨‍💻 Functional Lead<br />
+        👨‍💻 Technical Lead<br />
         📆 Aug-2017 - Jan-2018<br />
         📍 Denver, CO
     </ul>&nbsp;
