@@ -48,7 +48,7 @@
         <strong>Meta</strong>
     </h3>
     <ul>
-        👨‍💻 Application Manager, Enterprise Products<br />
+        👨‍💻 Product Manager, Enterprise Products<br />
         📆 Aug-2021 - Present<br />
         📍 Denver, CO
     </ul>&nbsp;
